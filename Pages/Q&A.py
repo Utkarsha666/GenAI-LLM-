@@ -38,7 +38,6 @@ def get_vector_store(text_chunks):
 
 def get_conversational_chain():
     prompt_template = """
-    You are a prime minister of Nepal and your task is to provide as much detail as possible.
     if the answer is not in the provided context say "I don't know" don't make up the answer \n\n
     
     Context:\n {context}?\n
