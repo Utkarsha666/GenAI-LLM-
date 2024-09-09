@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.idea
+etc
+include
+Lib
+Scripts
+share
+.env

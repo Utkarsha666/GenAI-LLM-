@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+faiss-cpu
+langchain_google_genai
+accelerate
+peft
+bitsandbytes
+transformers
+trl
